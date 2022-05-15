@@ -1,3 +1,6 @@
+****Purpose****
+
+Apparently, the results of an election were brought into question once again. The purpose of this analyis is to audit the raw election results from three separate counties to validate the winner, and to provide additional insights on the voter turnout by county.
 
 
 **Results**
@@ -11,16 +14,21 @@ The winner of the election was Diana DeGette with 272,892 votes, or 73.8% of the
 **The analysis of the election show that:**
 
 There were 369,711 votes cast in the election.
-The candidates were:
-Charles Casper Stockham
-Diana DeGette
-Raymon Anthony Doane
+
+       The candidates were:
+       Charles Casper Stockham
+       Diana DeGette
+       Raymon Anthony Doane
+       
 The candidate results were:
-Candidate Charles Casper Stockham received "23.0%" of the vote and 85,213 number of votes.
-Candidate Diana DeGette received "73.8%" of the vote and 272,892 number of votes.
-Candidate Raymon Anthony Doane received 3.1% of the voite and "11,606" number of votes.
+
+       Candidate Charles Casper Stockham received "23.0%" of the vote and 85,213 number of votes.
+       Candidate Diana DeGette received "73.8%" of the vote and 272,892 number of votes.
+       Candidate Raymon Anthony Doane received 3.1% of the voite and "11,606" number of votes.
+       
 The winner fo the election was:
-Candidate Diana DeGette who received 73.8% of the vote and "272,892" of votes.
+
+       Candidate Diana DeGette who received 73.8% of the vote and "272,892" of votes.
 
 
 ****Challenge Overview****
