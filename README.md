@@ -1,6 +1,6 @@
 
 
-Results
+**Results**
 
 The total number of votes cast was 369,711
 The breakdown of votes for each county and the percentage share can been seen in the County Votes section above
@@ -8,11 +8,7 @@ The county with the largest number of votes was Denver
 The breakdown of votes for each candidate and the percentage share can been seen above
 The winner of the election was Diana DeGette with 272,892 votes, or 73.8% of the vote share.
 
-
-summary 
-
-
-**The analysis of the election show that: **
+**The analysis of the election show that:**
 
 There were 369,711 votes cast in the election.
 The candidates were:
@@ -25,11 +21,14 @@ Candidate Diana DeGette received "73.8%" of the vote and 272,892 number of votes
 Candidate Raymon Anthony Doane received 3.1% of the voite and "11,606" number of votes.
 The winner fo the election was:
 Candidate Diana DeGette who received 73.8% of the vote and "272,892" of votes.
-Challenge Overview
+
+
+****Challenge Overview****
 
 This challenge has allowed us to get acquainted to the portion of Python that deals with Data Analysis. A lot to learn and discover. I am more motivated to accumulate more knowledge about Python and other tools.
 
-**challenge summary **
+
+**challenge summary**
 
 By working with the raw data, presented to us, we have been able to identify  the winner of the election. More importantly, we have uncovered the concentration of the votes. In Denver. One can deduct that any candidate that does well in Denver, 30% or above will never loose the election. 
 
